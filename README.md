@@ -1,4 +1,4 @@
-# "Virtualização" no Ryzentosh
+# "Virtualização" no Ryzentosh [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pedrocamargo)
 
 Fala pessoal, gostaria de começar falando sobre o ryzentosh e porque ele não faz virtualização, para isso temos que entender como a propria apple faz a utilização de um recurso da intel chamado **Intel VT-x** com ele se torna possível fazer a virtualização nos sistemas da Apple. Como o próprio nome já fala **Ryzen**-tosh, é feito com processadores amd da linha ryzen, que por sua vez não tem o **Intel VT-x** e sim o **AMD-v** que não tem compatilibidade com o **MacOS**, assim tornando impossível a utilização do recurso de virtualização.
 
